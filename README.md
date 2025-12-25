@@ -10,8 +10,8 @@ Hello everyone! Merry Christmas 2025! This is a script of a fun christmas game i
 
 And now, here are the steps to play:
 
-1. Download all the files png, mp3 and py and save all of them in a same folder
-2. Run the Main.py file
+1. Download the folder "Python Christmas Project" from this repositery.
+2. Open the folder in your PC and run the Main.py file
 3. Follow the rules and enjoy the game!
 
 I hope you guys enjoyed this small project. If you did, please star this project ⭐!
